@@ -1,0 +1,62 @@
+#Site configuration
+title: M S Nandan
+name:  
+author: M S Nandan
+work:  An Undergraduate Student
+year: 2018
+
+# Navigation
+nav1: "About"
+nav2: "CV"
+#nav3: "A Few Accomplishments"
+
+# Section1
+sec1: "Hey there."
+sec2: "I am an undergraduate student majoring in mathematics and computer science. I am an aspiring open source developer and have a great interest in coding."
+# sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+
+# Section 2
+sec4: "CV"
+#sec5: "Click here to download my CV."
+# icon1: "fas fa-code"
+# icont1: "Write all the code"
+# icon2: "fa-cubes"
+# icont2: "Stack small boxes"
+# icon3: "fa-book"
+# icont3: "Read books and stuff"
+#icon4: "fa-coffee"
+#icont4: "Drink much coffee"
+#icon5: "fa-bolt"
+#icont5: "Lightning bolt"
+#icon6: "fa-users"
+#icont6: "Shadow clone technique"
+
+# Section 3
+#sec6: "A Few Accomplishments"
+#sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
+#sec8: "Possibly broke spacetime"
+# sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+#sec10: "Terraformed a small moon"
+#sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+#sec12: "Snapped dark matter in the wild"
+#sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+
+# Social Links
+facebook: nandan.meda
+#twitter:  username
+#google: username
+#instagram: username
+#pinterest: username
+linkedin: nandan-meda
+#youtube: username
+#spotify: username
+#lastfm: username
+github: nandanmeda1999
+#stackoverflow: username
+#quora: username
+#reddit: username
+#medium: username
+#vimeo: username
+#keybase: username
+email: nandanmeda1999@gmail.com
+
